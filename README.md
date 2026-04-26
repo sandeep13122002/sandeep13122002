@@ -1,7 +1,7 @@
 <img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <h1 align="center">👋 Hi, I'm Sandeep Yadav</h1>
-<h3 align="center">Backend Engineer • Distributed Systems • Building for Scale 🚀</h3>
+<h3 align="center">Backend Engineer • Distributed Systems • Building Systems That Scale 🚀</h3>
 
 ---
 
@@ -16,37 +16,37 @@
 
 ## ⚡ About Me
 
-- 💻 Software Engineer working on **production-scale backend systems**
-- 🚀 Built & optimized **microservices handling high-throughput workloads**
-- ⚡ Improved latency using **gRPC-based communication systems**
-- 🧠 Strong in **DSA (600+ problems)** + **System Design**
-- 🔥 Passionate about building systems that **don’t break under load**
+- 💻 Software Engineer @ **MAQ Software**
+- 🚀 Worked on **10+ microservices** improving system efficiency and reliability  
+- ⚡ Migrated service communication from **REST → gRPC** for low-latency, high-throughput systems  
+- 🧠 Strong in **DSA (600+ problems)** + **System Design**  
+- 🔥 Passionate about building systems that **handle scale, failures, and real-world traffic**
 
 ---
 
 ## ⚡ Rapid Fire
 
-- 💼 Currently working on: **Scalable backend systems & system design deep dives**
-- 🌱 Exploring: **Distributed Systems, Kafka, Advanced Caching**
-- 💬 Ask me about: **System Design, Backend, Scaling APIs**
-- ⚡ Fun fact: **I optimize systems before they fail 😄**
+- 💼 Currently working on: **Event-driven systems & scalable backend architectures**
+- 🌱 Exploring: **Kafka, Distributed Systems, Advanced Caching Strategies**
+- 💬 Ask me about: **System Design, Backend Engineering, Scaling APIs**
+- ⚡ Fun fact: **I debug production issues faster than I create them 😄**
 
 ---
 
 ## 🏆 Featured Work
 
 ### 🔗 Scalable URL Shortener
-- Designed for **high availability & low latency**
+- Designed for **high availability & low latency under heavy load**
 - Built using **Spring Boot, MySQL, React, Docker**
-- Includes **analytics pipeline for user behavior tracking**
-- Focus on **indexing, optimization, and system design**
+- Implemented **analytics pipeline for click tracking & insights**
+- Optimized using **indexing, efficient schema design & caching strategies**
 
 ---
 
 ### 💬 Real-Time Chat System
 - Built with **MERN + Socket.io**
-- Handles **concurrent users & real-time messaging**
-- Designed for **low latency communication**
+- Supports **real-time messaging & user presence tracking**
+- Designed to handle **concurrent users with minimal latency**
 
 ---
 
@@ -88,11 +88,11 @@
 
 - ⚙️ Systems should **scale before they fail**
 - 🔁 Design for **failures, retries, and resilience**
-- ⚡ Performance is **not optional**
+- ⚡ Performance is a **feature, not an afterthought**
 
 ---
 
 ## 🚀 Signature
 
-> I build backend systems that don’t just work — they **handle scale, traffic, and chaos**.
+> I build backend systems that don’t just work — they **handle scale, traffic, and failure gracefully**.
 
