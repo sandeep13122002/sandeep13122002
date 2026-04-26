@@ -1,109 +1,98 @@
-<h1 align="center">Sandeep Yadav</h1>
-<h3 align="center">Backend Engineer | Distributed Systems | Building Systems That Scale</h3>
+<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+<h1 align="center">👋 Hi, I'm Sandeep Yadav</h1>
+<h3 align="center">Backend Engineer • Distributed Systems • Building for Scale 🚀</h3>
+
+---
+
+### 🔗 Connect with me:
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandeep13122002&label=Profile%20views&color=0e75b6&style=flat" />
+  <a href="https://github.com/sandeep13122002"><img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" height="28"/></a>
+  <a href="https://linkedin.com/in/sandeep-yadav-nitr"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28"/></a>
+  <a href="mailto:sandykumaryadav70@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" height="28"/></a>
 </p>
 
 ---
 
-## ⚡ Engineering Mindset
+## ⚡ About Me
 
-I don't just build applications.  
-I design systems that **handle scale, failures, and real-world constraints**.
-
-- ⚙️ Backend Engineer with hands-on experience in **microservices & distributed systems**
-- 🚀 Improved system performance using **gRPC-based communication**
-- 🧠 Strong problem-solving mindset (**600+ DSA problems solved**)
-- 📡 Experience with **event-driven architectures & high-throughput systems**
+- 💻 Software Engineer working on **production-scale backend systems**
+- 🚀 Built & optimized **microservices handling high-throughput workloads**
+- ⚡ Improved latency using **gRPC-based communication systems**
+- 🧠 Strong in **DSA (600+ problems)** + **System Design**
+- 🔥 Passionate about building systems that **don’t break under load**
 
 ---
 
-## 🚀 What I Bring to the Table
+## ⚡ Rapid Fire
 
-- ⚡ **Low-latency system design** → Optimized service-to-service communication
-- 🔁 **Resilient architectures** → Handling failures, retries, and edge cases
-- 📊 **Data-driven systems** → Analytics pipelines & behavioral insights
-- 🧩 **Production thinking** → Not just code, but scalability, monitoring, and reliability
+- 💼 Currently working on: **Scalable backend systems & system design deep dives**
+- 🌱 Exploring: **Distributed Systems, Kafka, Advanced Caching**
+- 💬 Ask me about: **System Design, Backend, Scaling APIs**
+- ⚡ Fun fact: **I optimize systems before they fail 😄**
 
 ---
 
 ## 🏆 Featured Work
 
 ### 🔗 Scalable URL Shortener
-A production-oriented system designed to handle **high traffic and real-time analytics**
-
-- Built using **Java, Spring Boot, MySQL, React, Docker**
-- Designed for **low-latency redirection and high availability**
-- Implemented **analytics pipeline for tracking user interactions**
-- Optimized DB queries using **indexing and efficient schema design**
+- Designed for **high availability & low latency**
+- Built using **Spring Boot, MySQL, React, Docker**
+- Includes **analytics pipeline for user behavior tracking**
+- Focus on **indexing, optimization, and system design**
 
 ---
 
 ### 💬 Real-Time Chat System
-A fully functional real-time communication platform
-
-- Built using **MERN + Socket.io**
-- Supports **live messaging, presence tracking, and authentication**
-- Designed to handle **concurrent users with minimal latency**
+- Built with **MERN + Socket.io**
+- Handles **concurrent users & real-time messaging**
+- Designed for **low latency communication**
 
 ---
 
-### 🧠 System Design Exploration
-Deep dives into scalable architectures:
-
+### 🧠 System Design Notes (Ongoing)
+- Rate Limiting  
 - Distributed Counters  
-- Rate Limiting Strategies  
-- Event-Driven Systems  
-- High-Availability Design  
+- Event-Driven Architecture  
+- High-scale system trade-offs  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-**Backend:**  
-Java • Spring Boot • Node.js • gRPC • REST • Microservices  
+<div align="center">
 
-**Systems:**  
-Distributed Systems • Event-Driven Architecture • Caching • Fault Tolerance  
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/gRPC-4285F4?logo=google&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="28"/>
 
-**Databases:**  
-PostgreSQL • MongoDB • Query Optimization • Indexing  
-
-**DevOps:**  
-Docker • CI/CD • Git  
-
-**Frontend:**  
-React  
+</div>
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandeep13122002&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep13122002&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandeep13122002&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=sandeep13122002&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
 ## 🧩 Engineering Philosophy
 
-- Systems should **scale before they break**
-- Code should **handle failure, not assume success**
-- Performance is a **feature, not an afterthought**
+- ⚙️ Systems should **scale before they fail**
+- 🔁 Design for **failures, retries, and resilience**
+- ⚡ Performance is **not optional**
 
 ---
 
-## 📫 Connect
+## 🚀 Signature
 
-- LinkedIn: https://linkedin.com/in/sandeep-yadav-nitr  
-- Email: sandykumaryadav70@gmail.com  
-- GitHub: https://github.com/sandeep13122002  
-
----
-
-## ⚡ Signature Line
-
-> I build backend systems that don’t just work — they **survive scale**.
+> I build backend systems that don’t just work — they **handle scale, traffic, and chaos**.
 
